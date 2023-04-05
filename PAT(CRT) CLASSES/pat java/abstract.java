@@ -1,0 +1,7 @@
+class
+{
+
+}
+public class Abstract {
+
+}
